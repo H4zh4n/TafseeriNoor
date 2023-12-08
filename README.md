@@ -1,5 +1,5 @@
 # TafseeriNoor
-
+# تەفسیری نوور | قورئانی پیرۆز
 
 <a href="https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.tafseerinoor">
 <img width="120" src="https://lh3.googleusercontent.com/IiXPDwM-w2y40d4s2dUsZUCSSGP-YNAPPAboL4IA0Wi3KGNtuqqaxgBK-kaO77_rmwY=s180-rw">
