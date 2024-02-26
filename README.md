@@ -10,15 +10,18 @@
 <a href="https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.tafseerinoor">
 <img width="200" src="https://storage.googleapis.com/media-2017.suncitymusicfestival.com/2017/06/c247fc43-7b50e0f4-google-play.jpg">
 </a>
+</div>
+<br>
 
-<br> 
+<div dir=center>
 <img src="https://lh3.googleusercontent.com/DAJkF7Kr4AHSbX49QIbPEGzCT2Mz2z_z9ic-sS0IEGOHUn139xLNATAis_bSejjhKm8" width="18%" />
 <img src="https://lh3.googleusercontent.com/RYl0LiZpx8mfkXAMwK9ztZwMB-daCMKF_6hidH6DQakRZPidPtTJJNRKXaOqt98nn9s" width="18%" />
 <img src="https://lh3.googleusercontent.com/s1tCUB4_O41PgzbkfTs4oWi5jAs2Z4reTNHL4kLdkCK1uGq4so1sf1qkzXp8NXGQ0As" width="18%" />
 <img src="https://lh3.googleusercontent.com/_6kYZN93QorH4Df4kyu-wsuv6NI5SdTCKkMCY2B_x6WRjU3a81i9ZJemUE2lEt7AyBpc" width="18%" />
 <img src="https://lh3.googleusercontent.com/0Z5TWWSOsCOarEXzI-N1wIs0mQMhli_SIlE-OXHZ7Kx6tSmJHmBQeGwkq_39w39xv48m" width="18%" />
-
+</div>
 <br> <br> 
+<div dir=rtl>
 
 ### تەفسیری كوردی قورئانی پیرۆز بەبێ ئینتەرنێت
 
